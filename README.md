@@ -1,4 +1,4 @@
-# A Simple Machine Learning Projet for Energy Data Analysis
+# A Simple Machine Learning Project for Energy Data Analysis
 
 ## 1. Welcome!
 This is a repository for a simple machine learning project developed for the EDA (Energy Data Analysis) module coursework under the programme MSc.ESDA (The Bartlett Energy Institute, UCL). In this repository, python notebooks for data post-processing, machine learning and visualisations are stored with sequential numnbers. You may follow all notebooks along with sequence numbers.
